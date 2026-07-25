@@ -1,4 +1,4 @@
-# DataboldSlides
+# SlidesProject
 
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 ![React](https://img.shields.io/badge/react-19.x-blue)
@@ -27,7 +27,7 @@
 
 ## Description
 
-**DataboldSlides** est un éditeur de présentations moderne et intuitif, développé avec React, Vite, TailwindCSS et Shadcn.  
+**SlidesProject** est un éditeur de présentations moderne et intuitif, développé avec React, Vite, TailwindCSS et Shadcn.  
 Il permet de créer, organiser et styliser des slides de façon professionnelle, avec une expérience utilisateur fluide et des fonctionnalités avancées (glisser-déposer, export PDF, thèmes, etc.).
 
 ---
@@ -85,8 +85,8 @@ Il permet de créer, organiser et styliser des slides de façon professionnelle,
 ## Installation
 
 ```bash
-git clone https://github.com/Wavitoo/DataboldSlides
-cd DataboldSlides
+git clone https://github.com/Wavitoo/SlidesProject
+cd SlidesProject
 npm install
 npm run dev
 ```
@@ -98,7 +98,7 @@ Ouvrez votre navigateur à l’adresse [http://localhost:5173](http://localhost:
 ## Structure du projet
 
 ```
-DataboldSlides/
+SlidesProject/
 ├── public/                # Fichiers statiques
 ├── src/
 │   ├── components/        # Composants React (SlideEditor, SlideContent, Sidebar, Toolbar, etc.)
@@ -118,13 +118,13 @@ DataboldSlides/
 
 Les contributions sont les bienvenues !  
 Merci de respecter la convention de commit [Conventional Commits](https://www.conventionalcommits.org/).  
-Pour toute suggestion ou bug, ouvrez une issue sur [GitHub Issues](https://github.com/Wavitoo/DataboldSlides/issues).
+Pour toute suggestion ou bug, ouvrez une issue sur [GitHub Issues](https://github.com/Wavitoo/SlidesProject/issues).
 
 ---
 
 ## Démo en ligne
 
-Essayez l’application ici : [https://databoldslides.netlify.app/](https://databoldslides.netlify.app/)  
+Essayez l’application ici : [https://SlidesProject.netlify.app/](https://SlidesProject.netlify.app/)  
 
 ---
 
